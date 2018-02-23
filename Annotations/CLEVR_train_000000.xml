@@ -1,0 +1,25 @@
+<annotation>
+  <folder>clevr_single</folder>
+  <filename>CLEVR_train_000000.JPEG</filename>
+  <source>
+    <database>CLEVR_SINGLE</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>320</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cube</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>122</ymin>
+      <xmax>260</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+</annotation>
